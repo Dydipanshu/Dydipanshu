@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dydipanshu" target="blank"><img src="https://img.shields.io/twitter/follow/dydipanshu?logo=twitter&style=for-the-badge" alt="dydipanshu" /></a> </p>
 
-- 🔭 I’m currently learning from [Project-Bases-Learning](https://github.com/practical-tutorials/project-based-learning))
+- 🔭 I’m currently learning from [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning).
 
 - 🌱 I’m currently learning **ReactJS,NodeJS,Blockchain,Solidity**
 
