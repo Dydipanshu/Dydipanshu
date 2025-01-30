@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepapanshu Yadav</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate developer.</h3>
 
 <p align="left"> <a href="https://x.com/lazyindiandev" target="blank"><img src="https://img.shields.io/twitter/follow/dydipanshu?logo=twitter&style=for-the-badge" alt="dydipanshu" /></a> </p>
 
-- 🔭 I’m currently learning from [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning).
-
-- 🌱 I’m currently learning **ReactJS,NodeJS,Blockchain,Solidity**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **dydipanshu2004@gmail.com**
 
-- ⚡ Fun fact **I think I am useless**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
