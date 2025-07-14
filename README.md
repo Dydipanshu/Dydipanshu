@@ -2,9 +2,7 @@
 <h3 align="center">Full Stack Engineer | JavaScript Magician | AI Curious | Shipping Side Projects</h3>
 
 <p align="center">
-  <a href="https://x.com/lazyindiandev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/dydipanshu?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+  
   <a href="https://linkedin.com/in/dydipanshu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
