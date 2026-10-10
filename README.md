@@ -2,7 +2,7 @@
 
 Software engineer in Noida. I work on backends and on AI: APIs and data models, and systems built on language models, along with the tests that show whether they work.
 
-- Earlier this year I built the front end of **[2020Tax.ie](https://www.2020tax.ie)**, a live Irish tax-filing site.
+- Earlier this year I built the front end of **2020Tax.ie**, an Irish tax-filing startup that has since closed.
 - B.Tech in Electrical Engineering, 2026. Co-author of a [paper](https://ieeexplore.ieee.org/abstract/document/11508590/) on finding power-grid faults with deep learning (MPCON 2026).
 
 **Things worth a look**
