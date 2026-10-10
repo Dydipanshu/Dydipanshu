@@ -10,7 +10,7 @@ Software engineer in Noida. I work on backends and on AI: APIs and data models, 
 | | |
 |---|---|
 | [support-triage-agent](https://github.com/Dydipanshu/support-triage-agent) | AI support agent that knows which messages it must not answer alone. 94% escalation recall on a hand-labelled golden set, 3 unsafe replies against 34 for a keyword baseline. |
-| [USGScribe](https://github.com/Dydipanshu/medical-dict) | Voice dictation for ultrasound reports, typed straight into MS Word. Electron tray app and a web editor. [Try it](https://usgscribe.vercel.app) |
+| [USGScribe](https://github.com/Dydipanshu/medical-dict) | Voice dictation for ultrasound reports, typed straight into MS Word. Electron tray app and a web editor. [Try it](https://usgscribe.tunedloop.com) |
 | [AktuAnswerCopy](https://github.com/Dydipanshu/AktuAnswerCopy) | Downloads checked exam answer sheets that my university's portal only lets students view. [Live](https://aktucopy.vercel.app) |
 | [EnergyMonitoring](https://github.com/Dydipanshu/EnergyMonitoring) | ESP32 energy monitor for a home supply, measuring voltage, current and power. |
 
